@@ -16,7 +16,7 @@ erDiagram
         char nom_cat
     }
 
-    Categorie }o--o{Transaction : bite
+    Categorie }o--o{Transaction : categoriser
   
 
 
